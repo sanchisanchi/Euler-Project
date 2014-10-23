@@ -1,4 +1,4 @@
 Euler-Project
 =============
 
-Euler Project problems.
+Euler Project problems coded in Java.
